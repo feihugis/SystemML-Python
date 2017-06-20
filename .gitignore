@@ -1,0 +1,5 @@
+.idea/*
+src/examples/logistic_model/*
+src/examples/scratch_space/*
+**/__pycache__/*
+
