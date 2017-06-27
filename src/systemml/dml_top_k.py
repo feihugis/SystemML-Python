@@ -52,6 +52,7 @@ prog = (dml(script).input(X=matrix, k=k).output(*out))
 values, indices = ml.execute(prog).get(*out)
 
 print("Input Matrix:")
+print(matrix.shape)
 print(matrix)
 
 print("Matrix for Top %d: " % k)

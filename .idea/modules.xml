@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SystemML-Learner.iml" filepath="$PROJECT_DIR$/.idea/SystemML-Learner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SystemML-Python.iml" filepath="$PROJECT_DIR$/.idea/SystemML-Python.iml" />
     </modules>
   </component>
 </project>

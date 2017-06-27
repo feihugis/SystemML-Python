@@ -9,5 +9,5 @@ from pyspark.sql import SparkSession
 from pyspark.sql.context import SQLContext
 
 sc = SparkContext(appName="SystemML_Learning", master="local[4]")
-spark = SparkSession.builder.appName("SystemML_Learning").getOrCreate()
+spark = SparkSession.builder.getOrCreate()
 sqlCtx = SQLContext(sc)
